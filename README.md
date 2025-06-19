@@ -16,11 +16,11 @@ Before jumping into ML or AI, I need to make sure my Python skills are solid.
 - [x] Write if/else conditions and loops
 - [x] Create and use functions
 - [x] Play with lists, dictionaries, tuples, and sets
-- [ ] Learn how to handle files (read/write)
+- [x] Learn how to handle files (read/write)
 - [ ] Handle errors with try/except
 - [ ] Use built-in functions like `map()`, `filter()`, `lambda`
-- [ ] Work with modules and packages
-- [ ] Use pip and virtual environments for managing projects
+- [x] Work with modules and packages
+- [x] Use pip and virtual environments for managing projects
 
 ---
 
