@@ -28,12 +28,12 @@ Before jumping into ML or AI, I need to make sure my Python skills are solid.
 
 OOP helps me write cleaner, more organized code — and it's everywhere in ML libraries.
 
-- [ ] Create classes and objects
-- [ ] Understand `__init__()` and `self`
-- [ ] Use inheritance and method overriding
+- [x] Create classes and objects
+- [x] Understand `__init__()` and `self`
+- [x] Use inheritance and method overriding
 - [ ] Learn about encapsulation and abstraction
-- [ ] Try out `@staticmethod` and `@classmethod`
-- [ ] Explore magic methods like `__str__`, `__repr__`, etc.
+- [x] Try out `@staticmethod` and `@classmethod`
+- [x] Explore magic methods like `__str__`, `__repr__`, etc.
 
 ---
 
