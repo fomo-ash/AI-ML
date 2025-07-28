@@ -42,20 +42,20 @@ OOP helps me write cleaner, more organized code — and it's everywhere in ML li
 Now I’ll dive into tools that help work with real-world data.
 
 ### 🧮 NumPy
-- [ ] Create and manipulate arrays
-- [ ] Do fast math operations (vectorization)
-- [ ] Reshape and slice data
+- [x] Create and manipulate arrays
+- [x] Do fast math operations (vectorization)
+- [x] Reshape and slice data
 
 ### 📋 Pandas
-- [ ] Use DataFrames and Series
-- [ ] Read CSV/Excel files
-- [ ] Filter, group, and clean data
-- [ ] Handle missing values
+- [x] Use DataFrames and Series
+- [x] Read CSV/Excel files
+- [x] Filter, group, and clean data
+- [x] Handle missing values
 
 ### 📈 Matplotlib & Seaborn
-- [ ] Create line charts, bar graphs, scatter plots
-- [ ] Make heatmaps and boxplots
-- [ ] Customize visuals for storytelling
+- [x] Create line charts, bar graphs, scatter plots
+- [x] Make heatmaps and boxplots
+- [x] Customize visuals for storytelling
 
 ---
 
@@ -63,9 +63,9 @@ Now I’ll dive into tools that help work with real-world data.
 
 Now the fun begins — teaching machines to learn from data!
 
-- [ ] Understand Supervised vs Unsupervised learning
-- [ ] Split data into train/test sets
-- [ ] Build models like:
+- [x] Understand Supervised vs Unsupervised learning
+- [x] Split data into train/test sets
+- [x] Build models like:
   - Linear Regression
   - Logistic Regression
   - k-NN
@@ -73,7 +73,7 @@ Now the fun begins — teaching machines to learn from data!
   - - SVM
   - Naive Bayes
 
-- [ ] Evaluate model performance:
+- [x] Evaluate model performance:
   - Accuracy, Precision, Recall, F1-score
   - Confusion Matrix
   - ROC-AUC
